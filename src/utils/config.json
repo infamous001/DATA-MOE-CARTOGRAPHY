@@ -1,0 +1,17 @@
+{
+    "params": {
+      "batch_size": 32,
+      "num_epochs": 3,
+      "learning_rate": 5e-5,
+      "hidden_size":128,
+      "max_len":512,
+      "dim":0,
+      "hidden_dim":0,
+      "num_labels":2
+
+    },
+    "moe": {
+      "experts": 3,
+      "num_experts_per_token": 2
+    }
+}

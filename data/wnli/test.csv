@@ -1,0 +1,27 @@
+text1,text2,label,idx,label_text,global_idx
+"Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",He opened his hands when the wind stopped.,0,374,not entailment,1000374
+I can't cut that tree down with that axe; it is too small.,The tree is too small.,0,580,not entailment,1000580
+"Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.",Bob would have lost.,0,276,not entailment,1000276
+Sid explained his theory to Mark but he couldn't understand him.,Sid couldn't understand him.,0,397,not entailment,1000397
+Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.,She has loved the flute since she was a child.,0,548,not entailment,1000548
+"Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.",Mark was afraid the stable boys at the Burlington Stables struck at him and bullied him.,1,99,entailment,1000099
+"Patting her back, the woman smiled at the girl.","Patting the woman's back, the woman smiled at the girl.",0,296,not entailment,1000296
+I put the cake away in the refrigerator. It has a lot of butter in it.,The cake has a lot of butter in it.,1,16,entailment,1000016
+"The path to the lake was blocked, so we couldn't use it.",We couldn't use the lake.,0,116,not entailment,1000116
+No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.,That's exactly how the study makes us feel.,0,69,not entailment,1000069
+Frank was upset with Tom because the toaster he had bought from him didn't work.,The toaster Tom had bought from him didn't work.,0,610,not entailment,1000610
+"All the buttons up the back of Dora's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, she had left poor little Dora to do the best she could, alone.","She had left poor little Dora to do the best Maude could, alone.",0,394,not entailment,1000394
+"Paul tried to call George on the phone, but he wasn't available.",George wasn't available.,1,124,entailment,1000124
+"The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.","The stars were very cooperative, so the interview lasted for a long time.",1,211,entailment,1000211
+The woman held the girl against her chest.,The woman held the girl against the girl's chest.,0,531,not entailment,1000531
+"Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.",Emma's education had been managed by an excellent woman as governess.,1,566,entailment,1000566
+"Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.",He lowered his eyes when the wind stopped.,0,139,not entailment,1000139
+"Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.","The chair was broken, so he had to sing instead.",0,79,not entailment,1000079
+"As Ollie carried Tommy up the long winding steps, his legs ached.",Ollie's legs ached.,1,590,entailment,1000590
+I'm sure that my map will show this building; it is very famous.,The map is very famous.,0,417,not entailment,1000417
+Kirilov ceded the presidency to Shatov because he was less popular.,Shatov was less popular.,0,456,not entailment,1000456
+"Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.",Mama had to hunt for a button.,0,200,not entailment,1000200
+"Even before they reached town, they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.",Dora asked what the town was.,0,475,not entailment,1000475
+"The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.",Terpsichore was easier to pronounce.,0,600,not entailment,1000600
+The drain is clogged with hair. It has to be removed.,The hair has to be removed.,1,467,entailment,1000467
+"They broadcast an announcement, but a subway came into the station and I couldn't hear over it.",I couldn't hear the announcement.,0,169,not entailment,1000169
